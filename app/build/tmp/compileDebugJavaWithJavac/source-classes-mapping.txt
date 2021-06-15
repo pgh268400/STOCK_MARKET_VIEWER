@@ -1,0 +1,22 @@
+com/example/termproject/MainActivity2.java
+ com.example.termproject.MainActivity2
+ com.example.termproject.MainActivity2$1
+com/example/termproject/MainData.java
+ com.example.termproject.MainData
+com/example/termproject/ScreenData.java
+ com.example.termproject.ScreenData
+com/example/termproject/BuildConfig.java
+ com.example.termproject.BuildConfig
+com/example/termproject/MainActivity.java
+ com.example.termproject.MainActivity
+ com.example.termproject.MainActivity$1
+com/example/termproject/MainAdapter.java
+ com.example.termproject.MainAdapter
+ com.example.termproject.MainAdapter$1
+ com.example.termproject.MainAdapter$1$1
+ com.example.termproject.MainAdapter$CustomViewHolder
+com/example/termproject/ScreenAdapter.java
+ com.example.termproject.ScreenAdapter
+ com.example.termproject.ScreenAdapter$1
+ com.example.termproject.ScreenAdapter$1$1
+ com.example.termproject.ScreenAdapter$CustomViewHolder
